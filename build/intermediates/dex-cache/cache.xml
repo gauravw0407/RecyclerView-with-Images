@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3488109b56d7ecb5be0089fc98763500fc505536.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_e8ace19c49bb26753a577839a25623c58dbcd2f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_21cb1b5377581a18588300de611e4679bd5a6c15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_34833b0615f881939fc2753c8d9825b7f958c7c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_34459e26c15911ff52ed32b00f9ab494bc1cf590.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_5934cd3e50ae363846129d15b02f2afcefb8db56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_9b3f7bf4a0f7d6c490b26f6b24d26a7641dc4f3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_52a3e13a03ab63185f6f2d2101274c85ee8dbec6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_3d6fa945c97693084bee581730468ce5a98b1fa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_40d4f14871f7e2c0d12d3ff41fca2780078f6123.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_27134f24919d7c69695d94ce948f2617f26e39af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_2c19aec452379272b416e5ce07a930369f19c1b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_aec6cccbd4cc9160de65a56bcf9679310e78f956.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ac983b59403693563ff0f1794789582d2bbf3b06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_0b14590ece603f8cce9e645983484a97eb8320b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/gaurav/AndroidStudioProjects/RecyclerViewwithImages/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8ffb7985a0fc8ceb8e98968112dfe79f5a9d0838.jar" />
+    </item>
+
+</items>

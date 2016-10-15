@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RecyclerView with Images</string>
+
+    <string-array name="names">
+        <item>"Ae Dil Hai Mushkil"</item>
+        <item>"Darkhaast</item>
+        <item>"Galiyaan"</item>
+        <item>"Hai Koi"</item>
+        <item>"Main Rahoon"</item>
+        <item>"Phir Kabhi"</item>
+        <item>"Tay Hai"</item>
+        <item>"Tere Sang Yaara"</item>
+        <item>"Teri Khair Mangdi"</item>
+        <item>"Tum Hi Ho"</item>
+    </string-array>
+
+    <string-array name="artists">
+        <item>"Pritam"</item>
+        <item>"Arijit Singh"</item>
+        <item>"Ankit Tiwari"</item>
+        <item>"Gajendra Verma"</item>
+        <item>"Armaan Malik"</item>
+        <item>"Arijit Singh"</item>
+        <item>"Ankit Tiwari</item>
+        <item>"Atif Aslam"</item>
+        <item>"Bilal Saeed"</item>
+        <item>"Arijit Singh"</item>
+    </string-array>
+</resources>
